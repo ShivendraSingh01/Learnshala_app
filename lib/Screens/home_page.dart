@@ -2,7 +2,7 @@ import 'dart:ui';
 import 'package:sharda_app/widgets/Info_card.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:sharda_app/widgets/class_card.dart';
+import 'package:sharda_app/widgets/home_class_card.dart';
 import 'package:sharda_app/widgets/getdisplaysize.dart';
 import 'package:sharda_app/widgets/curve_screen.dart';
 
